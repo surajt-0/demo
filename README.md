@@ -1,4 +1,4 @@
 # demo
 my first  repository
 <br>
-author - suraj
+author - Suraj
